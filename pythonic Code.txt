@@ -1,0 +1,17 @@
+
+# pythonic Code
+
+//Bad Code
+colors = ['red', 'blue', 'green', 'yellow']
+
+result =''
+for s in colors:
+      result +=s
+
+//pythonic Ccode
+colors = ['red', 'blue', 'green', 'yellow']
+result = ''.join(colors)
+print(result)
+
+
+Split

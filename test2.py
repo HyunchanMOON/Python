@@ -1,0 +1,6 @@
+print("Enter your name:")
+who = input()
+print("Hi", who , "How are you today?")
+print("How old are you?")
+age = input()
+print("I'm a", age ,"Years old")
